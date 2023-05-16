@@ -1,0 +1,13 @@
+#0;are;1;file.txt;1;#
+#0;am;1;file1.txt;1;#
+#7;Hi;2;file.txt;1;file1.txt;2;#
+#7;hello;1;file.txt;1;#
+#7;how;1;file.txt;1;#
+#8;i;1;file1.txt;1;#
+#10;karthik;1;file1.txt;1;#
+#24;you;1;file.txt;1;#
+#26;!;2;file.txt;2;file1.txt;1;#
+#26;*;1;file.txt;1;#
+#26;12;2;file.txt;1;file1.txt;1;#
+#26;34;1;file.txt;1;#
+#26;1;1;file1.txt;1;#
